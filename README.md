@@ -1,7 +1,7 @@
 # 🔮 Oráculo Ultimate: Análise Lotérica & Interpretação de Sonhos com IA
 
 > **Uma fusão entre Ciência de Dados, Misticismo e Inteligência Artificial.**
-
+https://oraculo-loterico-ia.streamlit.app/
 O **Oráculo Ultimate** é uma aplicação web desenvolvida em Python e Streamlit que oferece ferramentas avançadas para entusiastas de loterias. O projeto combina análise estatística rigorosa (mapas de calor, atrasos, tendências) com interpretações lúdicas e místicas (sonhos, numerologia) alimentadas pela **Google Gemini AI**.
 
 ---
