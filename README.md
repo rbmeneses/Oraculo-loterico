@@ -11,6 +11,8 @@ O **Oráculo Ultimate** é uma aplicação web desenvolvida em Python e Streamli
 | Painel Estatístico | Oráculo Místico (IA) |
 |:---:|:---:|
 | <img src="Screenshot_1.png" width="400" alt="Dashboard Estatístico"> | <img src="Screenshot_3.png" width="400" alt="Interpretação de Sonhos com IA"> |
+| <img src="Screenshot_9.png" width="400" alt="Dashboard Estatístico"> | <img src="Screenshot_10.png" width="400" alt="Interpretação de Sonhos com IA"> |
+| <img src="Screenshot_13.png" width="400" alt="Dashboard Estatístico"> | <img src="Screenshot_12.png" width="400" alt="Interpretação de Sonhos com IA"> |
 | **Gerador de Cards** | **Desdobramentos** |
 | <img src="Screenshot_2.png" width="400" alt="Gerador Rápido"> | <img src="Screenshot_4.png" width="400" alt="Matriz de Desdobramento"> |
 
